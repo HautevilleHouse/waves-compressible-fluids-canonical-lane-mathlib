@@ -1,0 +1,15 @@
+-- This module is the root of the WavesCompressibleFluidsCanonicalLaneLean Lean proof package.
+import HautevilleHouse.WavesCompressibleFluidsCanonicalLaneLean.MathlibObjects
+import HautevilleHouse.WavesCompressibleFluidsCanonicalLaneLean.AdmissibleClass
+import HautevilleHouse.WavesCompressibleFluidsCanonicalLaneLean.Projection
+import HautevilleHouse.WavesCompressibleFluidsCanonicalLaneLean.BridgeLemmas
+import HautevilleHouse.WavesCompressibleFluidsCanonicalLaneLean.GateLemmas
+import HautevilleHouse.WavesCompressibleFluidsCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace WavesCompressibleFluidsCanonicalLaneLean
+
+-- Package root: imports all layers
+
+end WavesCompressibleFluidsCanonicalLaneLean
+end HautevilleHouse
